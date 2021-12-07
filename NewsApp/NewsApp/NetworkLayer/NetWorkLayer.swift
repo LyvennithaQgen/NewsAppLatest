@@ -6,7 +6,6 @@
 //
 
 import Foundation
-import Alamofire
 
 public protocol NetworkConstants{
     var baseURL: String {get set}
